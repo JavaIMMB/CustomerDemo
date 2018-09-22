@@ -1,3 +1,3 @@
-Sample REST application
+Simple REST application
 
 REST application that provides REST API.
